@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font: normal;
+    color: rgb(0, 0, 0);
+    background-color: whitesmoke;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 80%;
+    padding: 15px 15px;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+    width: 50%;
+    background-color: lightskyblue;
+    margin: 15px 15px;
+    padding: 15px 15px;
+    color: aliceblue;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+  }
+  input[type="button"] {
+    background-color: lightskyblue;
+    margin: 15px 15px;
+    padding: 15px 30px;
+    color: aliceblue;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+  }
+  .box{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding: 50px 50px 50px;
+    align-self: center;
+    border: 1px solid black;
+    text-align: center;
+  }
+  label{
+    text-align: center;
+    margin: auto;
+  }
+  .box1{
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    padding: auto;
+    align-self: center;
+    border: 1px solid black;
+    text-align: center;
+  }
+  .titulo{
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+  }
+  .Facebook1{
+    float: left;
+  }
+  .pswd{
+    margin-top: 30px;
+  }
+  
